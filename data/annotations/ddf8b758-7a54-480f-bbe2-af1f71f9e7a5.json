@@ -1,18 +1,1 @@
-{
-  "event_id": "e2cfc27a-1f31-407f-9264-a3e79bfe69da",
-  "source_id": "f36cece2-f74a-43f1-99d0-0b7912cbb7ed",
-  "set": "default",
-  "annotations": [
-    {
-      "start_time": 1395,
-      "end_time": 1412,
-      "annotation": [
-        {
-          "text": " Movement between broadcasts--which are separated by a pause, a silence-- illustrates the active engagement short wave radio provides to both the user and the listener. What we hear is made through interaction with these broadcast frequencies. The silences in short wave radio exhibit listening as a practice of making meaning of, with, and from signals. "
-        }
-      ],
-      "tags": [],
-      "uuid": "e3effba8-18ac-4457-bcec-9e735623c4dc"
-    }
-  ]
-}
+{"event_id":"e2cfc27a-1f31-407f-9264-a3e79bfe69da","source_id":"f36cece2-f74a-43f1-99d0-0b7912cbb7ed","set":"default","annotations":[{"start_time":1395,"end_time":1412,"annotation":[{"text":" Movement between broadcasts--which are separated by a pause, a silence-- illustrates the active engagement short wave radio provides to both the user and the listener. What we hear is made through interaction with these broadcast frequencies. The silences in short wave radio exhibit listening as a practice of making meaning of, with, and from signals. "}],"tags":[],"uuid":"e3effba8-18ac-4457-bcec-9e735623c4dc"}]}
