@@ -1,1 +1,107 @@
-{"content":[{"type":"paragraph","children":[{"text":""}]},{"type":"event","uuid":"e20a8d9e-862b-4d1f-9a90-b4ddc9f6d9c5","includes":["media","annotations","label","description"],"file":"32f70865-001b-4c01-a82c-7254fa44aafe","children":[{"text":""}]},{"type":"paragraph","children":[{"text":""}]}],"title":"Custom","autogenerate":{"enabled":false,"type":"custom"},"created_at":"2024-09-13T12:22:17.103Z","created_by":"absempere","updated_at":"2024-09-13T12:46:43.075Z","updated_by":"absempere","parent":"53269af8-f740-40eb-b009-141a031f0816"}
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "e20a8d9e-862b-4d1f-9a90-b4ddc9f6d9c5",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "file": "32f70865-001b-4c01-a82c-7254fa44aafe",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        2,
+        4
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Testing the custom layouts"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "url": "https://www.theparisreview.org/il/5d1c069175/large/BishopElizabethcAliceHelenMethfesselcourtesyofFrankBidart.png",
+              "size": "medium",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "Custom",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "created_at": "2024-09-13T12:22:17.103Z",
+  "created_by": "absempere",
+  "updated_at": "2024-09-23T15:43:49.974Z",
+  "updated_by": "absempere",
+  "parent": "53269af8-f740-40eb-b009-141a031f0816"
+}
