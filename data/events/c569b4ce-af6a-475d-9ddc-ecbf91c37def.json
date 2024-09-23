@@ -1,7 +1,7 @@
 {
   "audiovisual_files": {
     "efce5a4a-a679-4cbe-8d7a-95cd9bcdeaa6": {
-      "label": "",
+      "label": "Video Event",
       "file_url": "https://apps.lib.jmu.edu/audiannotate/FF143.mp4",
       "duration": 2362
     }
@@ -21,6 +21,6 @@
   "created_by": "absempere",
   "item_type": "Video",
   "label": "Imported Event 1",
-  "updated_at": "2024-09-18T15:55:42.525Z",
+  "updated_at": "2024-09-23T16:41:06.276Z",
   "updated_by": "absempere"
 }
