@@ -1,14 +1,1 @@
-{
-  "content": [],
-  "created_at": "2024-09-18T15:55:42.799Z",
-  "created_by": "absempere",
-  "title": "Imported Event 1",
-  "updated_at": "2024-09-18T15:55:42.799Z",
-  "updated_by": "absempere",
-  "parent": "53269af8-f740-40eb-b009-141a031f0816",
-  "autogenerate": {
-    "enabled": true,
-    "type": "event",
-    "type_id": "c569b4ce-af6a-475d-9ddc-ecbf91c37def"
-  }
-}
+{"content":[],"created_at":"2024-09-18T15:55:42.799Z","created_by":"absempere","title":"Imported Event 1","updated_at":"2024-09-18T15:55:42.799Z","updated_by":"absempere","parent":"53269af8-f740-40eb-b009-141a031f0816","autogenerate":{"enabled":true,"type":"event","type_id":"c569b4ce-af6a-475d-9ddc-ecbf91c37def"}}
