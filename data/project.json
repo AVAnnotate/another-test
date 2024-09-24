@@ -15,7 +15,13 @@
     "authors": "Anindita Basu Sempere",
     "media_player": "avannotate",
     "auto_populate_home_page": true,
-    "additional_users": [],
+    "additional_users": [
+      {
+        "login_name": "SteveMarvin",
+        "avatar_url": "https://avatars.githubusercontent.com/u/18423533?v=4",
+        "admin": false
+      }
+    ],
     "tags": {
       "tagGroups": [
         {
@@ -119,6 +125,6 @@
       ]
     },
     "created_at": "2024-09-11T19:13:19.430Z",
-    "updated_at": "2024-09-23T16:42:59.546Z"
+    "updated_at": "2024-09-24T16:11:48.399Z"
   }
 }
