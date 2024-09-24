@@ -21,6 +21,9 @@ jobs:
       - name: Checkout project repository
         uses: actions/checkout@v4
 
+      - name: Branch
+        run: echo ${{vars.PROJECT_CLIENT_BRANCH}}
+
       - name: Checkout project-client
         uses: actions/checkout@v4
         with:
