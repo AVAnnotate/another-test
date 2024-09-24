@@ -3,7 +3,8 @@
     "de110673-72cb-4964-956a-395015c6773e": {
       "label": "S1576 , T86-246",
       "is_offline": false,
-      "file_url": "https://ia801304.us.archive.org/11/items/WPA_1939_Jacksonville_Halpert/T86-246.mp3"
+      "file_url": "https://ia801304.us.archive.org/11/items/WPA_1939_Jacksonville_Halpert/T86-246.mp3",
+      "duration": 1980
     }
   },
   "auto_generate_web_page": true,
@@ -17,6 +18,6 @@
   ],
   "created_at": "2024-09-11T19:13:52.383Z",
   "created_by": "absempere",
-  "updated_at": "2024-09-24T17:02:29.393Z",
+  "updated_at": "2024-09-24T17:02:55.479Z",
   "updated_by": "lwjameson"
 }
