@@ -1,0 +1,26 @@
+{
+  "audiovisual_files": {
+    "e7d18248-e6a5-4a9a-b7e0-55eb90bf23a1": {
+      "label": "Filling Station 2",
+      "is_offline": false,
+      "file_url": "https://www.youtube.com/watch?v=_R00RKGvrD4"
+    }
+  },
+  "auto_generate_web_page": true,
+  "item_type": "Video",
+  "label": "Elizabeth Bishop reads \\\"Filling Station\\\" version two",
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "A second version of \"Filling Station\""
+        }
+      ]
+    }
+  ],
+  "created_at": "2024-09-27T21:11:47.027Z",
+  "created_by": "absempere",
+  "updated_at": "2024-09-27T21:11:47.027Z",
+  "updated_by": "absempere"
+}

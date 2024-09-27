@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "57a00327-5ee4-40b3-9b9b-ac9b5bdd2c84": {
+      "label": "Bidart Moose 1979",
+      "is_offline": false,
+      "file_url": "https://library.harvard.edu/sites/default/files/static/poetry/audio/listeningbooth/bishop_1979/FrankBidart2.mp3"
+    }
+  },
+  "auto_generate_web_page": true,
+  "citation": "https://library.harvard.edu/sites/default/files/static/poetry/listeningbooth/poets/bishop.html",
+  "item_type": "Audio",
+  "label": "Frank Bidart reading \\\"The Moose\\\" by Elizabeth Bishop",
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Frank Bidart read this poem at Elizabeth Bishop's memorial service in 1979."
+        }
+      ]
+    }
+  ],
+  "created_at": "2024-09-27T21:11:47.027Z",
+  "created_by": "absempere",
+  "updated_at": "2024-09-27T21:11:47.027Z",
+  "updated_by": "absempere"
+}
